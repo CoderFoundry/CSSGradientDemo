@@ -2,9 +2,9 @@
 
 <img src="/img/CF_Logo_ON.png" alt="Coder Foundry" width="200" />
 
-<div style="background: linear-gradient(to right, #2B404F, #1A2733, #0F1A23); padding: 20px; border-radius: 10px; color: white;">
-    Welcome to <strong>CSS Text Gradients</strong>, a project developed by Coder Foundry. Learn about styling text with backgrounds and gradients.
-</div>
+## Welcome to CSS Text Gradients
+
+Welcome to **CSS Text Gradients**, a project developed by Coder Foundry. Learn about styling text with backgrounds and gradients.
 
 ## 🚀 Live Demo
 
