@@ -1,8 +1,8 @@
 # CSS Text Gradients
 
-![Coder Foundry](/img/CF_logo_OW.png)
+![Coder Foundry](/img/CF_Logo_ON.png)
 
-Welcome to **CSS Text Gradients**, a project developed by Coder Foundry. LEarn about styling text with backgrounds and graidents
+Welcome to **CSS Text Gradients**, a project developed by Coder Foundry. Learn about styling text with backgrounds and graidents
 
 ## 🚀 Live Demo
 
