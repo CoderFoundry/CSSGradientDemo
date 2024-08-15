@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    color: #212121;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+footer .bi {
+    color: #b8dafe;
+    font-size: 2rem;
+    padding-left: .5rem;
+    transition: color 0.25s;
+}
+
+footer .bi:hover {
+    color: #ff993b;
+}

@@ -1,0 +1,143 @@
+.ccbiffbamboomoutline-regular {
+    font-family: "ccbiffbamboomoutline",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fira-sans-thin {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.fira-sans-extralight {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.fira-sans-light {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.fira-sans-regular {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fira-sans-medium {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.fira-sans-semibold {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.fira-sans-bold {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.fira-sans-extrabold {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.fira-sans-black {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.fira-sans-thin-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.fira-sans-extralight-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.fira-sans-light-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.fira-sans-regular-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fira-sans-medium-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.fira-sans-semibold-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.fira-sans-bold-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.fira-sans-extrabold-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+.fira-sans-black-italic {
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.anton-sc-regular {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.bungee-hairline-regular {
+    font-family: "Bungee Hairline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rubik-glitch-regular {
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* rubik-lines-latin-400-normal */
+@font-face {
+    font-family: 'Rubik Lines';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/rubik-lines@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/rubik-lines@latest/latin-400-normal.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

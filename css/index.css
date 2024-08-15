@@ -1,0 +1,56 @@
+:root {
+    --cfOrangeGradient: linear-gradient(to right, #CC6600, #FF993B, #FFDAB9);
+    --cfBlueGradient: linear-gradient(to right, #1A2733, #2B404F, #395667);
+    --cfSubtleRadialGradient: radial-gradient(circle, #2B404F, #1A2733 50%, #0F1A23 100%);
+}
+
+body{
+    color: rgb(241, 241, 241);
+
+}
+
+.title{
+    color: transparent;
+    background: var(--cfOrangeGradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 4rem;
+    text-transform: uppercase;
+    line-height: 4rem;
+}
+
+
+.subtitle{
+    font-family: "Fira Sans", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mainBg{
+    background: var(--cfSubtleRadialGradient);
+}
+
+.cta-section {
+    background: rgba(117, 117, 117, 0.2); 
+    color: #fff;
+    
+}
+
+.ctaTitle{
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 2rem;
+    text-transform: uppercase;
+    line-height: 1.5rem;
+}
+
+.ctaSubTitle{
+    font-family: "Fira Sans", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.6rem;   
+}
