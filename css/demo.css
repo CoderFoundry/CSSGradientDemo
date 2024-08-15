@@ -1,26 +1,27 @@
 :root {
-    --cfOrangeGradient: linear-gradient(to right, #CC6600, #FF993B, #FFDAB9);
-    --cfBlueGradient: linear-gradient(to right, #1a232c, #2B404F, #4b7188);
+    --cfOrangeGradient: linear-gradient(to right, #CC6600, #FF993B, #FFDAB9);    
 }
 
 body {
-    background: radial-gradient(circle, #FFFFFF, #fdf1f1);
+    background: rgb(243, 243, 243)
+}
+
+main{
+    margin: 25px 0px 25px 0px;
 }
 
 main div {
-    font-size: 8.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bolder;
-    text-transform: uppercase;
-    display: flex;
+    font-size: 7rem;
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;    
+    text-transform: uppercase;    
+    padding: .5rem;
+    border-radius: 15px;   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    flex-grow: 1;
+    display:flex;
     align-items: center;
     justify-content: center;
-    padding: .5rem;
-    border-radius: 15px;
-    border-color: #212121;
-    border-width: 0px;
-    border-style: solid;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .boxOne {
@@ -36,14 +37,14 @@ main div {
     background: url(/img/ColorClouds.jpg);
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
     -webkit-background-clip: text;
-    background-clip: text;      
-    
+    background-clip: text;
+
 }
 
 .boxThree {
-    color: rgba(10, 233, 58, 0.2);
+    color: rgba(18, 171, 1, 0.2);
     background: url(/img/DataGlitchBW.gif);
     -webkit-background-clip: text;
     background-clip: text;

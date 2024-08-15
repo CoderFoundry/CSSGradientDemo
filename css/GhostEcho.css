@@ -42,6 +42,7 @@ video {
     text-transform: capitalize;
     position: relative;
     z-index: -1;
+    margin-top: 25%;
 }
 
 .subtitle {
@@ -60,22 +61,40 @@ video {
     .title {
         font-size: 5rem;
         line-height: 5rem;
+        margin-top: 25%;
     }
+}
+
+@media (min-width: 768px) and (orientation: landscape) {
+    .title {
+            font-size: 5rem;
+            line-height: 5rem;
+            margin-top: 6%;
+        }
 }
 
 @media (min-width: 992px) {
     .title {
         font-size: 7rem;
         line-height: 7rem;
-        margin-top: 15%;
+        margin-top: 40%;
     }
 
+}
+
+@media (min-width: 992px) and (orientation: landscape) {
+    .title {
+        font-size: 5rem;
+        line-height: 5rem;
+        margin-top: 20%;
+    }
 }
 
 @media (min-width: 1200px) {
     .title {
         font-size: 9rem;
-        line-height: 9rem;        
+        line-height: 9rem;  
+        margin-top: 22%;      
     }
 
 }
