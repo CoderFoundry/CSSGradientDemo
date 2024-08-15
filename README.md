@@ -1,6 +1,6 @@
 # CSS Text Gradients
 
-![Coder Foundry](/img/CF_Logo_ON.png)
+<img src="/img/CF_Logo_ON.png" alt="Coder Foundry" width="200" />
 
 Welcome to **CSS Text Gradients**, a project developed by Coder Foundry. Learn about styling text with backgrounds and graidents
 
