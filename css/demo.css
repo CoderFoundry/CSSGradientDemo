@@ -14,7 +14,8 @@ main div {
     font-size: 7rem;
     font-family: "Fira Sans", system-ui;
     font-weight: 900;    
-    text-transform: uppercase;    
+    text-transform: uppercase;  
+    line-height: 6rem;  
     padding: .5rem;
     border-radius: 15px;   
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
