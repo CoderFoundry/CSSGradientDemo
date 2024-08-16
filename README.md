@@ -10,7 +10,7 @@ Check out the live site! Click the button below to view the published version of
 
 ## 🎥 Watch the Video
 
-Want to see how to create css gradients? Check out our YouTube video for a detailed walkthrough and demonstration.
+Want to see how to create gradient text with css? Check out our YouTube video for a detailed walkthrough and demonstration.
 
 [![Watch the Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=your-video-id)
 
