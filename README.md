@@ -6,7 +6,7 @@ Welcome to **CSS Text Gradients**, a project developed by Coder Foundry. Learn a
 
 Check out the live site! Click the button below to view the published version of the project.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://your-live-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://cssgradienttextdemo.netlify.app/ghostecho)
 
 ## 🎥 Watch the Video
 
