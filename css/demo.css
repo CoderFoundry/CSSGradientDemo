@@ -1,33 +1,34 @@
 :root {
-    --cfOrangeGradient: linear-gradient(to right, #CC6600, #FF993B, #FFDAB9);    
+    --cfOrangeGradient: linear-gradient(to right, #CC6600, #FF993B, #FFDAB9);
+    --cfSubtleRadialGradient: radial-gradient(circle, #2B404F, #1A2733 50%, #0F1A23 100%);
 }
 
 body {
     background: rgb(243, 243, 243)
 }
 
-main{
+main {
     margin: 25px 0px 25px 0px;
 }
 
 main div {
     font-size: 7rem;
     font-family: "Fira Sans", system-ui;
-    font-weight: 900;    
-    text-transform: uppercase;  
-    line-height: 6rem;  
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 6rem;
     padding: .5rem;
-    border-radius: 15px;   
+    border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     flex-grow: 1;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .boxOne {
     color: transparent;
-    background: var(--cfOrangeGradient);   
+    background: var(--cfOrangeGradient);
     background-clip: text;
     -webkit-background-clip: text;
 }
@@ -47,4 +48,8 @@ main div {
     background: url(/img/DataGlitchBW.gif);
     -webkit-background-clip: text;
     background-clip: text;
+}
+
+.navbg{
+    background: var(--cfSubtleRadialGradient);
 }
