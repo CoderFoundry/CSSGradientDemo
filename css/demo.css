@@ -27,10 +27,9 @@ main div {
 
 .boxOne {
     color: transparent;
-    background: var(--cfOrangeGradient);
-    -webkit-background-clip: text;
+    background: var(--cfOrangeGradient);   
     background-clip: text;
-
+    -webkit-background-clip: text;
 }
 
 .boxTwo {
@@ -41,7 +40,6 @@ main div {
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-clip: text;
-
 }
 
 .boxThree {
