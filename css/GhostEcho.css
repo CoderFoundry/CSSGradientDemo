@@ -54,8 +54,6 @@ video {
 
 
 
-
-
 @media (min-width: 768px) {
     .title {
         font-size: 5rem;
@@ -66,10 +64,10 @@ video {
 
 @media (min-width: 768px) and (orientation: landscape) {
     .title {
-            font-size: 5rem;
-            line-height: 5rem;
-            margin-top: 6%;
-        }
+        font-size: 5rem;
+        line-height: 5rem;
+        margin-top: 6%;
+    }
 }
 
 @media (min-width: 992px) {
@@ -92,8 +90,8 @@ video {
 @media (min-width: 1200px) {
     .title {
         font-size: 9rem;
-        line-height: 9rem;  
-        margin-top: 22%;      
+        line-height: 9rem;
+        margin-top: 22%;
     }
 
 }
