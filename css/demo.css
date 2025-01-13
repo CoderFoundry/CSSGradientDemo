@@ -75,3 +75,49 @@ main div {
     font-style: normal;
     font-size: 1.6rem;
 }
+
+.ctaStyle {
+
+    padding-top: 1rem;
+
+    background: var(--cfSubtleRadialGradient);
+    color: #fff;
+
+    font-family: "Fira Sans", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 1rem;
+    text-transform: uppercase;
+    line-height: 1rem;
+}
+
+.ctaStyle i {
+    color: var(--cf-theme-core);
+    font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .ctaStyle {
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-top-color: var(--cf-theme-core);
+        border-left-color: var(--cf-theme-core);
+        border-right-color: var(--cf-theme-core);
+        border-top-style: solid;
+        border-right-style: solid;
+        border-left-style: solid;
+        border-top-width: 2px;
+        border-right-width: 2px;
+        border-left-width: 2px;
+
+        background: var(--cfSubtleRadialGradient);
+        color: #fff;
+
+        font-family: "Fira Sans", system-ui;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 1rem;
+        text-transform: uppercase;
+        line-height: 1rem;
+    }
+}
